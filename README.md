@@ -15,3 +15,6 @@
 
 # [Bolsa Selim ROCKBROS 3D](http://produto.mercadolivre.com.br/MLB-891296636-bolsa-selim-bike-importado-unico-no-brasil-_JM)
 ![image Crossfit bracelets](https://github.com/cmpereirasi/Template-for-ML/blob/master/assets/rockbros_selim_3D.png?raw=true)
+
+# [Bolsa Selim ROCKBROS](http://produto.mercadolivre.com.br/MLB-891291922-bolsa-selim-impermeavel-importado-para-bike-_JM)
+![image Crossfit bracelets](https://github.com/cmpereirasi/Template-for-ML/blob/master/assets/rockbros_selim_bolsa.png?raw=true)
